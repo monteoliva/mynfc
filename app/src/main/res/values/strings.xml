@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNFC</string>
+    <string name="titulo_read">Leitura de NFC</string>
+    
+    <!-- Botoes -->
+    <string name="btn1">Limpar</string>
+
+</resources>

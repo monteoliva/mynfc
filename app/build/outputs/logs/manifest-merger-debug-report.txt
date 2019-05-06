@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0ed5fe3c41fd20cc758694464ca2faa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\4cd2dbfa636424f343eb28947dc11ee9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5fd59eec0916cb3392f8cccdfd9298b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\946d719299f5e6483e7679fe933dc3e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\f4d1410a3f608fe36ddec69614add39e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8d20c4b77a742b786055a5e6ad00e729\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\45ce6ec0385dc30ba1bdbb74336c3643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\cd9eaf50c120e7c94f140e0be0bbfea0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c0d2eea53674ac4521f77d4a333fbb33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\777b8031aaf41e3a030c36c39ed33f23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bb25acf0ee873dd8de7bb2b6930b2273\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\258f7a8367e70111a95e8fddc9db2896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\af4f2aafe4e254cf0270df4d71f5c88b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\7830b4ccde769a8337eaf13f7b8330f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\950581271a4a58fa05241a1c899b301e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\39ab75ec1762fdb39882761f70f03e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0f7770fb2acec90e910d05a3cb3f9771\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\89322e28c51e7a163ddad4ff018469b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5b2e89e1051d3c135b006ae86971f2a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c03232f0702681f5f37ac31d5d4f9d62\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\781f5a31750630aec3580277e72cb5ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\6c18945e7f7a45be3e754c030deead4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\2c3eb3d396aab07253985314df58ebef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\01a977d4c906c8ba6718bc5be90a713e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c8b318a756fef3b62c75d2f5be73ab18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\a6e39ebf387e58e548f238874e93a3b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bf19c2db15563c6391ce7f8782f3e5df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\ea68b68152597995ca4e8055794c8dac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c73d0e5c116955e23d32a3a3fd59543d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5faec89786d8b077e362b995d7aa357c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\90c4b4970cbb17627c0f403f04e290c7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.NFC
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:7:5-62
+MERGED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:10:5-62
+MERGED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:10:5-62
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:7:22-59
+uses-feature#android.hardware.nfc
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:10:5-81
+	android:required
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:10:55-78
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:10:19-54
+application
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:13:5-36:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\4cd2dbfa636424f343eb28947dc11ee9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\4cd2dbfa636424f343eb28947dc11ee9\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c03232f0702681f5f37ac31d5d4f9d62\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c03232f0702681f5f37ac31d5d4f9d62\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:18:9-43
+	android:icon
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:17:9-39
+activity#br.monteoliva.mynfc.SplashScreen
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:21:13-45
+	android:windowSoftInputMode
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:22:13-67
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:26:27-74
+activity#br.monteoliva.mynfc.Principal_
+ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:31:9-34:52
+	android:screenOrientation
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:34:13-49
+	android:windowSoftInputMode
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:33:13-67
+	android:name
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml:32:13-39
+uses-sdk
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+MERGED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:5:5-7:41
+MERGED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0ed5fe3c41fd20cc758694464ca2faa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0ed5fe3c41fd20cc758694464ca2faa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\4cd2dbfa636424f343eb28947dc11ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\4cd2dbfa636424f343eb28947dc11ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5fd59eec0916cb3392f8cccdfd9298b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5fd59eec0916cb3392f8cccdfd9298b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\946d719299f5e6483e7679fe933dc3e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\946d719299f5e6483e7679fe933dc3e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\f4d1410a3f608fe36ddec69614add39e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\f4d1410a3f608fe36ddec69614add39e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8d20c4b77a742b786055a5e6ad00e729\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8d20c4b77a742b786055a5e6ad00e729\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\45ce6ec0385dc30ba1bdbb74336c3643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\45ce6ec0385dc30ba1bdbb74336c3643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\cd9eaf50c120e7c94f140e0be0bbfea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\cd9eaf50c120e7c94f140e0be0bbfea0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c0d2eea53674ac4521f77d4a333fbb33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c0d2eea53674ac4521f77d4a333fbb33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\777b8031aaf41e3a030c36c39ed33f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\777b8031aaf41e3a030c36c39ed33f23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bb25acf0ee873dd8de7bb2b6930b2273\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bb25acf0ee873dd8de7bb2b6930b2273\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\258f7a8367e70111a95e8fddc9db2896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\258f7a8367e70111a95e8fddc9db2896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\af4f2aafe4e254cf0270df4d71f5c88b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\af4f2aafe4e254cf0270df4d71f5c88b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\7830b4ccde769a8337eaf13f7b8330f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\7830b4ccde769a8337eaf13f7b8330f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\950581271a4a58fa05241a1c899b301e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\950581271a4a58fa05241a1c899b301e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\39ab75ec1762fdb39882761f70f03e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\39ab75ec1762fdb39882761f70f03e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0f7770fb2acec90e910d05a3cb3f9771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0f7770fb2acec90e910d05a3cb3f9771\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\89322e28c51e7a163ddad4ff018469b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\89322e28c51e7a163ddad4ff018469b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5b2e89e1051d3c135b006ae86971f2a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5b2e89e1051d3c135b006ae86971f2a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\0072015c986d1946bc1fda2e8ae1f410\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c03232f0702681f5f37ac31d5d4f9d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c03232f0702681f5f37ac31d5d4f9d62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\781f5a31750630aec3580277e72cb5ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\781f5a31750630aec3580277e72cb5ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\6c18945e7f7a45be3e754c030deead4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\6c18945e7f7a45be3e754c030deead4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\2c3eb3d396aab07253985314df58ebef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\2c3eb3d396aab07253985314df58ebef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\01a977d4c906c8ba6718bc5be90a713e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\01a977d4c906c8ba6718bc5be90a713e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c8b318a756fef3b62c75d2f5be73ab18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c8b318a756fef3b62c75d2f5be73ab18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\a6e39ebf387e58e548f238874e93a3b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\a6e39ebf387e58e548f238874e93a3b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bf19c2db15563c6391ce7f8782f3e5df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\bf19c2db15563c6391ce7f8782f3e5df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\ea68b68152597995ca4e8055794c8dac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\ea68b68152597995ca4e8055794c8dac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c73d0e5c116955e23d32a3a3fd59543d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\c73d0e5c116955e23d32a3a3fd59543d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5faec89786d8b077e362b995d7aa357c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\5faec89786d8b077e362b995d7aa357c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\90c4b4970cbb17627c0f403f04e290c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\90c4b4970cbb17627c0f403f04e290c7\AndroidManifest.xml:20:5-44
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		ADDED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\workspace\android\pessoal\MyNFC\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from [br.monteoliva:monteoliva-lib:1.0.15] C:\Users\clmon\.gradle\caches\transforms-2\files-2.1\8e1e40f44a0465c562f98ec218e08e23\AndroidManifest.xml:16:22-72
