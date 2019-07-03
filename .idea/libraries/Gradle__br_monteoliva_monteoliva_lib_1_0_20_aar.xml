@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: br.monteoliva:monteoliva-lib:1.0.20@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46a55b813710e97283135d16765a0066/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46a55b813710e97283135d16765a0066/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

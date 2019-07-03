@@ -1,4 +1,4 @@
-#Mon May 06 18:47:24 BRT 2019
+#Wed Jul 03 14:57:10 BRT 2019
 base.0=C\:\\workspace\\android\\pessoal\\MyNFC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

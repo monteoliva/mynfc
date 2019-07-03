@@ -5463,39 +5463,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background br.evoluinet.mynfc:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit br.evoluinet.mynfc:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked br.evoluinet.mynfc:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd br.evoluinet.mynfc:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions br.evoluinet.mynfc:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background br.monteoliva.mynfc:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit br.monteoliva.mynfc:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked br.monteoliva.mynfc:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd br.monteoliva.mynfc:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions br.monteoliva.mynfc:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft br.evoluinet.mynfc:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight br.evoluinet.mynfc:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart br.evoluinet.mynfc:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation br.evoluinet.mynfc:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft br.monteoliva.mynfc:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight br.monteoliva.mynfc:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart br.monteoliva.mynfc:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation br.monteoliva.mynfc:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout br.evoluinet.mynfc:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions br.evoluinet.mynfc:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider br.evoluinet.mynfc:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height br.evoluinet.mynfc:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll br.evoluinet.mynfc:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator br.evoluinet.mynfc:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout br.evoluinet.mynfc:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon br.evoluinet.mynfc:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle br.evoluinet.mynfc:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding br.evoluinet.mynfc:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout br.monteoliva.mynfc:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions br.monteoliva.mynfc:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider br.monteoliva.mynfc:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height br.monteoliva.mynfc:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll br.monteoliva.mynfc:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator br.monteoliva.mynfc:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout br.monteoliva.mynfc:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon br.monteoliva.mynfc:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle br.monteoliva.mynfc:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding br.monteoliva.mynfc:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo br.evoluinet.mynfc:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode br.evoluinet.mynfc:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme br.evoluinet.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo br.monteoliva.mynfc:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode br.monteoliva.mynfc:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme br.monteoliva.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding br.evoluinet.mynfc:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle br.evoluinet.mynfc:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle br.evoluinet.mynfc:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle br.evoluinet.mynfc:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title br.evoluinet.mynfc:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle br.evoluinet.mynfc:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding br.monteoliva.mynfc:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle br.monteoliva.mynfc:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle br.monteoliva.mynfc:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle br.monteoliva.mynfc:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title br.monteoliva.mynfc:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle br.monteoliva.mynfc:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -5547,7 +5547,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:background
+     * @attr name br.monteoliva.mynfc:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -5563,7 +5563,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundSplit
+     * @attr name br.monteoliva.mynfc:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -5579,7 +5579,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundStacked
+     * @attr name br.monteoliva.mynfc:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -5594,7 +5594,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetEnd
+     * @attr name br.monteoliva.mynfc:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -5609,7 +5609,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetEndWithActions
+     * @attr name br.monteoliva.mynfc:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -5624,7 +5624,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetLeft
+     * @attr name br.monteoliva.mynfc:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -5639,7 +5639,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetRight
+     * @attr name br.monteoliva.mynfc:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -5654,7 +5654,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetStart
+     * @attr name br.monteoliva.mynfc:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -5669,7 +5669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetStartWithNavigation
+     * @attr name br.monteoliva.mynfc:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -5682,7 +5682,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:customNavigationLayout
+     * @attr name br.monteoliva.mynfc:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -5705,7 +5705,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:displayOptions
+     * @attr name br.monteoliva.mynfc:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -5718,7 +5718,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:divider
+     * @attr name br.monteoliva.mynfc:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -5732,7 +5732,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -5746,7 +5746,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:height
+     * @attr name br.monteoliva.mynfc:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -5757,7 +5757,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:hideOnContentScroll
+     * @attr name br.monteoliva.mynfc:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -5770,7 +5770,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:homeAsUpIndicator
+     * @attr name br.monteoliva.mynfc:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -5783,7 +5783,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:homeLayout
+     * @attr name br.monteoliva.mynfc:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -5796,7 +5796,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:icon
+     * @attr name br.monteoliva.mynfc:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -5809,7 +5809,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:indeterminateProgressStyle
+     * @attr name br.monteoliva.mynfc:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -5824,7 +5824,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:itemPadding
+     * @attr name br.monteoliva.mynfc:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -5837,7 +5837,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:logo
+     * @attr name br.monteoliva.mynfc:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -5856,7 +5856,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:navigationMode
+     * @attr name br.monteoliva.mynfc:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -5870,7 +5870,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:popupTheme
+     * @attr name br.monteoliva.mynfc:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -5884,7 +5884,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:progressBarPadding
+     * @attr name br.monteoliva.mynfc:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -5897,7 +5897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:progressBarStyle
+     * @attr name br.monteoliva.mynfc:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -5908,7 +5908,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:subtitle
+     * @attr name br.monteoliva.mynfc:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -5921,7 +5921,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:subtitleTextStyle
+     * @attr name br.monteoliva.mynfc:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -5932,7 +5932,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:title
+     * @attr name br.monteoliva.mynfc:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -5945,7 +5945,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:titleTextStyle
+     * @attr name br.monteoliva.mynfc:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -6027,12 +6027,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background br.evoluinet.mynfc:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit br.evoluinet.mynfc:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout br.evoluinet.mynfc:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height br.evoluinet.mynfc:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle br.evoluinet.mynfc:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle br.evoluinet.mynfc:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background br.monteoliva.mynfc:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit br.monteoliva.mynfc:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout br.monteoliva.mynfc:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height br.monteoliva.mynfc:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle br.monteoliva.mynfc:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle br.monteoliva.mynfc:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -6055,7 +6055,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:background
+     * @attr name br.monteoliva.mynfc:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -6071,7 +6071,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundSplit
+     * @attr name br.monteoliva.mynfc:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -6084,7 +6084,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:closeItemLayout
+     * @attr name br.monteoliva.mynfc:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -6098,7 +6098,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:height
+     * @attr name br.monteoliva.mynfc:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -6111,7 +6111,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:subtitleTextStyle
+     * @attr name br.monteoliva.mynfc:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -6124,7 +6124,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:titleTextStyle
+     * @attr name br.monteoliva.mynfc:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -6134,8 +6134,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable br.evoluinet.mynfc:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount br.evoluinet.mynfc:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable br.monteoliva.mynfc:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount br.monteoliva.mynfc:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -6157,7 +6157,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:expandActivityOverflowButtonDrawable
+     * @attr name br.monteoliva.mynfc:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -6168,7 +6168,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:initialActivityCount
+     * @attr name br.monteoliva.mynfc:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -6179,13 +6179,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen br.evoluinet.mynfc:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout br.evoluinet.mynfc:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout br.evoluinet.mynfc:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout br.evoluinet.mynfc:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout br.evoluinet.mynfc:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle br.evoluinet.mynfc:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout br.evoluinet.mynfc:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen br.monteoliva.mynfc:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout br.monteoliva.mynfc:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout br.monteoliva.mynfc:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout br.monteoliva.mynfc:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout br.monteoliva.mynfc:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle br.monteoliva.mynfc:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout br.monteoliva.mynfc:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -6213,7 +6213,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6222,11 +6222,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:buttonIconDimen
+     * @attr name br.monteoliva.mynfc:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6234,11 +6234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonPanelSideLayout
+     * @attr name br.monteoliva.mynfc:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6246,11 +6246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listItemLayout
+     * @attr name br.monteoliva.mynfc:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6258,11 +6258,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listLayout
+     * @attr name br.monteoliva.mynfc:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6270,21 +6270,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:multiChoiceItemLayout
+     * @attr name br.monteoliva.mynfc:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:showTitle
+     * @attr name br.monteoliva.mynfc:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6292,7 +6292,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:singleChoiceItemLayout
+     * @attr name br.monteoliva.mynfc:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -6518,9 +6518,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded br.evoluinet.mynfc:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll br.evoluinet.mynfc:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded br.monteoliva.mynfc:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll br.monteoliva.mynfc:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -6579,27 +6579,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:expanded
+     * @attr name br.monteoliva.mynfc:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:liftOnScroll
+     * @attr name br.monteoliva.mynfc:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -6609,10 +6609,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed br.evoluinet.mynfc:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible br.evoluinet.mynfc:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable br.evoluinet.mynfc:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted br.evoluinet.mynfc:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed br.monteoliva.mynfc:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible br.monteoliva.mynfc:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable br.monteoliva.mynfc:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted br.monteoliva.mynfc:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -6623,43 +6623,43 @@ public final class R {
       0x7f030169, 0x7f03016a, 0x7f03016b, 0x7f03016c
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:state_collapsed
+     * @attr name br.monteoliva.mynfc:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:state_collapsible
+     * @attr name br.monteoliva.mynfc:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:state_liftable
+     * @attr name br.monteoliva.mynfc:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:state_lifted
+     * @attr name br.monteoliva.mynfc:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -6669,8 +6669,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags br.evoluinet.mynfc:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator br.evoluinet.mynfc:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags br.monteoliva.mynfc:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator br.monteoliva.mynfc:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -6679,7 +6679,7 @@ public final class R {
       0x7f030113, 0x7f030114
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6696,11 +6696,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:layout_scrollFlags
+     * @attr name br.monteoliva.mynfc:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6708,7 +6708,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:layout_scrollInterpolator
+     * @attr name br.monteoliva.mynfc:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -6719,9 +6719,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat br.evoluinet.mynfc:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint br.evoluinet.mynfc:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode br.evoluinet.mynfc:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat br.monteoliva.mynfc:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint br.monteoliva.mynfc:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode br.monteoliva.mynfc:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -6757,7 +6757,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:srcCompat
+     * @attr name br.monteoliva.mynfc:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -6769,7 +6769,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tint
+     * @attr name br.monteoliva.mynfc:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -6796,7 +6796,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tintMode
+     * @attr name br.monteoliva.mynfc:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -6807,9 +6807,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark br.evoluinet.mynfc:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint br.evoluinet.mynfc:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode br.evoluinet.mynfc:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark br.monteoliva.mynfc:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint br.monteoliva.mynfc:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode br.monteoliva.mynfc:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -6841,7 +6841,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tickMark
+     * @attr name br.monteoliva.mynfc:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -6853,7 +6853,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tickMarkTint
+     * @attr name br.monteoliva.mynfc:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -6880,7 +6880,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tickMarkTintMode
+     * @attr name br.monteoliva.mynfc:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -7020,18 +7020,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize br.evoluinet.mynfc:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize br.evoluinet.mynfc:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes br.evoluinet.mynfc:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize br.monteoliva.mynfc:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize br.monteoliva.mynfc:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes br.monteoliva.mynfc:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity br.evoluinet.mynfc:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity br.monteoliva.mynfc:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType br.evoluinet.mynfc:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight br.evoluinet.mynfc:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily br.evoluinet.mynfc:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight br.evoluinet.mynfc:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight br.evoluinet.mynfc:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps br.evoluinet.mynfc:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType br.monteoliva.mynfc:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight br.monteoliva.mynfc:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily br.monteoliva.mynfc:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight br.monteoliva.mynfc:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight br.monteoliva.mynfc:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps br.monteoliva.mynfc:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -7073,7 +7073,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:autoSizeMaxTextSize
+     * @attr name br.monteoliva.mynfc:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -7087,7 +7087,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:autoSizeMinTextSize
+     * @attr name br.monteoliva.mynfc:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -7102,7 +7102,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:autoSizePresetSizes
+     * @attr name br.monteoliva.mynfc:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -7118,7 +7118,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:autoSizeStepGranularity
+     * @attr name br.monteoliva.mynfc:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -7138,7 +7138,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:autoSizeTextType
+     * @attr name br.monteoliva.mynfc:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -7153,7 +7153,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:firstBaselineToTopHeight
+     * @attr name br.monteoliva.mynfc:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -7164,7 +7164,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontFamily
+     * @attr name br.monteoliva.mynfc:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -7179,7 +7179,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:lastBaselineToBottomHeight
+     * @attr name br.monteoliva.mynfc:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -7194,7 +7194,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:lineHeight
+     * @attr name br.monteoliva.mynfc:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -7209,7 +7209,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:textAllCaps
+     * @attr name br.monteoliva.mynfc:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -7221,142 +7221,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider br.evoluinet.mynfc:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground br.evoluinet.mynfc:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme br.evoluinet.mynfc:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider br.monteoliva.mynfc:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground br.monteoliva.mynfc:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme br.monteoliva.mynfc:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize br.evoluinet.mynfc:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize br.monteoliva.mynfc:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle br.evoluinet.mynfc:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle br.evoluinet.mynfc:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle br.evoluinet.mynfc:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle br.evoluinet.mynfc:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle br.evoluinet.mynfc:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme br.evoluinet.mynfc:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle br.monteoliva.mynfc:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle br.monteoliva.mynfc:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle br.monteoliva.mynfc:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle br.monteoliva.mynfc:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle br.monteoliva.mynfc:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme br.monteoliva.mynfc:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme br.evoluinet.mynfc:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme br.monteoliva.mynfc:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle br.evoluinet.mynfc:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle br.evoluinet.mynfc:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance br.evoluinet.mynfc:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle br.monteoliva.mynfc:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle br.monteoliva.mynfc:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance br.monteoliva.mynfc:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor br.evoluinet.mynfc:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground br.evoluinet.mynfc:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle br.evoluinet.mynfc:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable br.evoluinet.mynfc:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable br.evoluinet.mynfc:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable br.evoluinet.mynfc:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable br.evoluinet.mynfc:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable br.evoluinet.mynfc:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle br.evoluinet.mynfc:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable br.evoluinet.mynfc:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable br.evoluinet.mynfc:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground br.evoluinet.mynfc:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle br.evoluinet.mynfc:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable br.evoluinet.mynfc:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle br.evoluinet.mynfc:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle br.evoluinet.mynfc:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle br.evoluinet.mynfc:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle br.evoluinet.mynfc:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons br.evoluinet.mynfc:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle br.evoluinet.mynfc:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme br.evoluinet.mynfc:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle br.evoluinet.mynfc:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle br.evoluinet.mynfc:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle br.evoluinet.mynfc:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle br.evoluinet.mynfc:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle br.evoluinet.mynfc:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle br.evoluinet.mynfc:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle br.evoluinet.mynfc:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle br.evoluinet.mynfc:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall br.evoluinet.mynfc:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle br.evoluinet.mynfc:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle br.evoluinet.mynfc:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent br.evoluinet.mynfc:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating br.evoluinet.mynfc:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal br.evoluinet.mynfc:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated br.evoluinet.mynfc:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight br.evoluinet.mynfc:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal br.evoluinet.mynfc:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError br.evoluinet.mynfc:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor br.monteoliva.mynfc:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground br.monteoliva.mynfc:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle br.monteoliva.mynfc:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable br.monteoliva.mynfc:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable br.monteoliva.mynfc:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable br.monteoliva.mynfc:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable br.monteoliva.mynfc:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable br.monteoliva.mynfc:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle br.monteoliva.mynfc:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable br.monteoliva.mynfc:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable br.monteoliva.mynfc:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground br.monteoliva.mynfc:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle br.monteoliva.mynfc:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable br.monteoliva.mynfc:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle br.monteoliva.mynfc:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle br.monteoliva.mynfc:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle br.monteoliva.mynfc:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle br.monteoliva.mynfc:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons br.monteoliva.mynfc:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle br.monteoliva.mynfc:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme br.monteoliva.mynfc:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle br.monteoliva.mynfc:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle br.monteoliva.mynfc:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle br.monteoliva.mynfc:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle br.monteoliva.mynfc:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle br.monteoliva.mynfc:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle br.monteoliva.mynfc:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle br.monteoliva.mynfc:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle br.monteoliva.mynfc:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall br.monteoliva.mynfc:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle br.monteoliva.mynfc:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle br.monteoliva.mynfc:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent br.monteoliva.mynfc:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating br.monteoliva.mynfc:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal br.monteoliva.mynfc:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated br.monteoliva.mynfc:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight br.monteoliva.mynfc:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal br.monteoliva.mynfc:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError br.monteoliva.mynfc:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary br.evoluinet.mynfc:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark br.evoluinet.mynfc:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal br.evoluinet.mynfc:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground br.evoluinet.mynfc:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius br.evoluinet.mynfc:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding br.evoluinet.mynfc:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme br.evoluinet.mynfc:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal br.evoluinet.mynfc:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical br.evoluinet.mynfc:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle br.evoluinet.mynfc:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight br.evoluinet.mynfc:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground br.evoluinet.mynfc:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor br.evoluinet.mynfc:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle br.evoluinet.mynfc:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator br.evoluinet.mynfc:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle br.evoluinet.mynfc:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator br.evoluinet.mynfc:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog br.evoluinet.mynfc:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle br.evoluinet.mynfc:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle br.evoluinet.mynfc:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight br.evoluinet.mynfc:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge br.evoluinet.mynfc:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall br.evoluinet.mynfc:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft br.evoluinet.mynfc:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight br.evoluinet.mynfc:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground br.evoluinet.mynfc:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme br.evoluinet.mynfc:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth br.evoluinet.mynfc:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle br.evoluinet.mynfc:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle br.evoluinet.mynfc:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle br.evoluinet.mynfc:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle br.evoluinet.mynfc:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator br.evoluinet.mynfc:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall br.evoluinet.mynfc:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle br.evoluinet.mynfc:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle br.evoluinet.mynfc:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground br.evoluinet.mynfc:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary br.monteoliva.mynfc:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark br.monteoliva.mynfc:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal br.monteoliva.mynfc:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground br.monteoliva.mynfc:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius br.monteoliva.mynfc:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding br.monteoliva.mynfc:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme br.monteoliva.mynfc:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal br.monteoliva.mynfc:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical br.monteoliva.mynfc:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle br.monteoliva.mynfc:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight br.monteoliva.mynfc:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground br.monteoliva.mynfc:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor br.monteoliva.mynfc:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle br.monteoliva.mynfc:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator br.monteoliva.mynfc:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle br.monteoliva.mynfc:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator br.monteoliva.mynfc:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog br.monteoliva.mynfc:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle br.monteoliva.mynfc:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle br.monteoliva.mynfc:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight br.monteoliva.mynfc:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge br.monteoliva.mynfc:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall br.monteoliva.mynfc:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft br.monteoliva.mynfc:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight br.monteoliva.mynfc:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground br.monteoliva.mynfc:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme br.monteoliva.mynfc:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth br.monteoliva.mynfc:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle br.monteoliva.mynfc:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle br.monteoliva.mynfc:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle br.monteoliva.mynfc:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle br.monteoliva.mynfc:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator br.monteoliva.mynfc:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall br.monteoliva.mynfc:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle br.monteoliva.mynfc:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle br.monteoliva.mynfc:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground br.monteoliva.mynfc:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless br.evoluinet.mynfc:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle br.evoluinet.mynfc:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle br.evoluinet.mynfc:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle br.evoluinet.mynfc:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu br.evoluinet.mynfc:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem br.evoluinet.mynfc:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary br.evoluinet.mynfc:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall br.evoluinet.mynfc:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader br.evoluinet.mynfc:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle br.evoluinet.mynfc:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle br.evoluinet.mynfc:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu br.evoluinet.mynfc:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem br.evoluinet.mynfc:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl br.evoluinet.mynfc:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle br.evoluinet.mynfc:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle br.evoluinet.mynfc:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor br.evoluinet.mynfc:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground br.evoluinet.mynfc:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass br.evoluinet.mynfc:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar br.evoluinet.mynfc:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless br.monteoliva.mynfc:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle br.monteoliva.mynfc:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle br.monteoliva.mynfc:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle br.monteoliva.mynfc:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu br.monteoliva.mynfc:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem br.monteoliva.mynfc:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary br.monteoliva.mynfc:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall br.monteoliva.mynfc:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader br.monteoliva.mynfc:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle br.monteoliva.mynfc:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle br.monteoliva.mynfc:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu br.monteoliva.mynfc:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem br.monteoliva.mynfc:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl br.monteoliva.mynfc:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle br.monteoliva.mynfc:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle br.monteoliva.mynfc:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor br.monteoliva.mynfc:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground br.monteoliva.mynfc:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass br.monteoliva.mynfc:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar br.monteoliva.mynfc:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay br.evoluinet.mynfc:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay br.monteoliva.mynfc:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay br.evoluinet.mynfc:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay br.monteoliva.mynfc:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor br.evoluinet.mynfc:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor br.monteoliva.mynfc:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor br.evoluinet.mynfc:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor br.monteoliva.mynfc:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor br.evoluinet.mynfc:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor br.monteoliva.mynfc:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor br.evoluinet.mynfc:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor br.monteoliva.mynfc:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor br.evoluinet.mynfc:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor br.monteoliva.mynfc:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor br.evoluinet.mynfc:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor br.monteoliva.mynfc:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle br.evoluinet.mynfc:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle br.monteoliva.mynfc:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -7545,7 +7545,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarDivider
+     * @attr name br.monteoliva.mynfc:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -7558,7 +7558,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarItemBackground
+     * @attr name br.monteoliva.mynfc:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -7572,7 +7572,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarPopupTheme
+     * @attr name br.monteoliva.mynfc:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -7595,7 +7595,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:actionBarSize
+     * @attr name br.monteoliva.mynfc:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -7611,7 +7611,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarSplitStyle
+     * @attr name br.monteoliva.mynfc:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -7624,11 +7624,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarStyle
+     * @attr name br.monteoliva.mynfc:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7636,7 +7636,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarTabBarStyle
+     * @attr name br.monteoliva.mynfc:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -7649,11 +7649,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarTabStyle
+     * @attr name br.monteoliva.mynfc:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7661,7 +7661,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarTabTextStyle
+     * @attr name br.monteoliva.mynfc:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -7676,7 +7676,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarTheme
+     * @attr name br.monteoliva.mynfc:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -7695,7 +7695,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionBarWidgetTheme
+     * @attr name br.monteoliva.mynfc:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -7708,7 +7708,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionButtonStyle
+     * @attr name br.monteoliva.mynfc:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -7721,7 +7721,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionDropDownStyle
+     * @attr name br.monteoliva.mynfc:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -7735,7 +7735,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionMenuTextAppearance
+     * @attr name br.monteoliva.mynfc:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -7751,7 +7751,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionMenuTextColor
+     * @attr name br.monteoliva.mynfc:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -7764,11 +7764,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeBackground
+     * @attr name br.monteoliva.mynfc:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7776,7 +7776,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeCloseButtonStyle
+     * @attr name br.monteoliva.mynfc:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -7789,7 +7789,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeCloseDrawable
+     * @attr name br.monteoliva.mynfc:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -7802,7 +7802,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeCopyDrawable
+     * @attr name br.monteoliva.mynfc:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -7815,7 +7815,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeCutDrawable
+     * @attr name br.monteoliva.mynfc:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -7828,7 +7828,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeFindDrawable
+     * @attr name br.monteoliva.mynfc:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -7841,7 +7841,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModePasteDrawable
+     * @attr name br.monteoliva.mynfc:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -7854,7 +7854,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModePopupWindowStyle
+     * @attr name br.monteoliva.mynfc:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -7867,7 +7867,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeSelectAllDrawable
+     * @attr name br.monteoliva.mynfc:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -7880,7 +7880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeShareDrawable
+     * @attr name br.monteoliva.mynfc:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -7893,11 +7893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeSplitBackground
+     * @attr name br.monteoliva.mynfc:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7905,7 +7905,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeStyle
+     * @attr name br.monteoliva.mynfc:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -7918,11 +7918,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionModeWebSearchDrawable
+     * @attr name br.monteoliva.mynfc:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7930,11 +7930,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionOverflowButtonStyle
+     * @attr name br.monteoliva.mynfc:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7942,7 +7942,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionOverflowMenuStyle
+     * @attr name br.monteoliva.mynfc:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -7955,11 +7955,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:activityChooserViewStyle
+     * @attr name br.monteoliva.mynfc:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7967,21 +7967,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:alertDialogButtonGroupStyle
+     * @attr name br.monteoliva.mynfc:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:alertDialogCenterButtons
+     * @attr name br.monteoliva.mynfc:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7989,7 +7989,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:alertDialogStyle
+     * @attr name br.monteoliva.mynfc:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -8002,7 +8002,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:alertDialogTheme
+     * @attr name br.monteoliva.mynfc:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -8015,7 +8015,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:autoCompleteTextViewStyle
+     * @attr name br.monteoliva.mynfc:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -8028,7 +8028,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:borderlessButtonStyle
+     * @attr name br.monteoliva.mynfc:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -8041,7 +8041,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonBarButtonStyle
+     * @attr name br.monteoliva.mynfc:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -8054,7 +8054,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonBarNegativeButtonStyle
+     * @attr name br.monteoliva.mynfc:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -8067,7 +8067,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonBarNeutralButtonStyle
+     * @attr name br.monteoliva.mynfc:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -8080,7 +8080,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonBarPositiveButtonStyle
+     * @attr name br.monteoliva.mynfc:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -8093,7 +8093,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonBarStyle
+     * @attr name br.monteoliva.mynfc:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -8106,7 +8106,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonStyle
+     * @attr name br.monteoliva.mynfc:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -8119,7 +8119,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonStyleSmall
+     * @attr name br.monteoliva.mynfc:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -8132,7 +8132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:checkboxStyle
+     * @attr name br.monteoliva.mynfc:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -8145,7 +8145,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:checkedTextViewStyle
+     * @attr name br.monteoliva.mynfc:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -8158,7 +8158,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorAccent
+     * @attr name br.monteoliva.mynfc:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -8170,7 +8170,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorBackgroundFloating
+     * @attr name br.monteoliva.mynfc:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -8182,7 +8182,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorButtonNormal
+     * @attr name br.monteoliva.mynfc:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -8194,7 +8194,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorControlActivated
+     * @attr name br.monteoliva.mynfc:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -8206,7 +8206,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorControlHighlight
+     * @attr name br.monteoliva.mynfc:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -8218,7 +8218,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorControlNormal
+     * @attr name br.monteoliva.mynfc:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -8235,7 +8235,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorError
+     * @attr name br.monteoliva.mynfc:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -8248,7 +8248,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorPrimary
+     * @attr name br.monteoliva.mynfc:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -8261,7 +8261,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorPrimaryDark
+     * @attr name br.monteoliva.mynfc:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -8273,7 +8273,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorSwitchThumbNormal
+     * @attr name br.monteoliva.mynfc:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -8286,7 +8286,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:controlBackground
+     * @attr name br.monteoliva.mynfc:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -8300,7 +8300,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:dialogCornerRadius
+     * @attr name br.monteoliva.mynfc:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -8314,7 +8314,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:dialogPreferredPadding
+     * @attr name br.monteoliva.mynfc:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -8327,7 +8327,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:dialogTheme
+     * @attr name br.monteoliva.mynfc:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -8340,7 +8340,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:dividerHorizontal
+     * @attr name br.monteoliva.mynfc:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -8353,7 +8353,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:dividerVertical
+     * @attr name br.monteoliva.mynfc:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -8366,7 +8366,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:dropDownListViewStyle
+     * @attr name br.monteoliva.mynfc:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -8380,7 +8380,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:dropdownListPreferredItemHeight
+     * @attr name br.monteoliva.mynfc:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -8393,7 +8393,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:editTextBackground
+     * @attr name br.monteoliva.mynfc:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -8409,7 +8409,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:editTextColor
+     * @attr name br.monteoliva.mynfc:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -8422,7 +8422,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:editTextStyle
+     * @attr name br.monteoliva.mynfc:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -8435,7 +8435,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:homeAsUpIndicator
+     * @attr name br.monteoliva.mynfc:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -8448,7 +8448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:imageButtonStyle
+     * @attr name br.monteoliva.mynfc:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -8461,7 +8461,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listChoiceBackgroundIndicator
+     * @attr name br.monteoliva.mynfc:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -8474,7 +8474,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listDividerAlertDialog
+     * @attr name br.monteoliva.mynfc:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -8487,11 +8487,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listMenuViewStyle
+     * @attr name br.monteoliva.mynfc:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8499,7 +8499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:listPopupWindowStyle
+     * @attr name br.monteoliva.mynfc:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -8513,7 +8513,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:listPreferredItemHeight
+     * @attr name br.monteoliva.mynfc:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -8527,7 +8527,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:listPreferredItemHeightLarge
+     * @attr name br.monteoliva.mynfc:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -8541,7 +8541,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:listPreferredItemHeightSmall
+     * @attr name br.monteoliva.mynfc:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -8555,7 +8555,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:listPreferredItemPaddingLeft
+     * @attr name br.monteoliva.mynfc:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -8569,7 +8569,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:listPreferredItemPaddingRight
+     * @attr name br.monteoliva.mynfc:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -8582,7 +8582,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:panelBackground
+     * @attr name br.monteoliva.mynfc:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -8595,7 +8595,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:panelMenuListTheme
+     * @attr name br.monteoliva.mynfc:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -8609,7 +8609,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:panelMenuListWidth
+     * @attr name br.monteoliva.mynfc:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -8622,7 +8622,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:popupMenuStyle
+     * @attr name br.monteoliva.mynfc:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -8635,7 +8635,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:popupWindowStyle
+     * @attr name br.monteoliva.mynfc:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -8648,7 +8648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:radioButtonStyle
+     * @attr name br.monteoliva.mynfc:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -8661,7 +8661,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:ratingBarStyle
+     * @attr name br.monteoliva.mynfc:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -8674,7 +8674,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:ratingBarStyleIndicator
+     * @attr name br.monteoliva.mynfc:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -8687,7 +8687,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:ratingBarStyleSmall
+     * @attr name br.monteoliva.mynfc:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -8700,7 +8700,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:searchViewStyle
+     * @attr name br.monteoliva.mynfc:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -8713,7 +8713,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:seekBarStyle
+     * @attr name br.monteoliva.mynfc:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -8728,7 +8728,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:selectableItemBackground
+     * @attr name br.monteoliva.mynfc:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -8741,7 +8741,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:selectableItemBackgroundBorderless
+     * @attr name br.monteoliva.mynfc:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -8754,7 +8754,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:spinnerDropDownItemStyle
+     * @attr name br.monteoliva.mynfc:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -8767,7 +8767,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:spinnerStyle
+     * @attr name br.monteoliva.mynfc:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -8780,7 +8780,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:switchStyle
+     * @attr name br.monteoliva.mynfc:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -8793,7 +8793,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceLargePopupMenu
+     * @attr name br.monteoliva.mynfc:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -8806,7 +8806,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceListItem
+     * @attr name br.monteoliva.mynfc:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -8819,7 +8819,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceListItemSecondary
+     * @attr name br.monteoliva.mynfc:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -8832,7 +8832,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceListItemSmall
+     * @attr name br.monteoliva.mynfc:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -8845,7 +8845,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearancePopupMenuHeader
+     * @attr name br.monteoliva.mynfc:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -8858,7 +8858,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceSearchResultSubtitle
+     * @attr name br.monteoliva.mynfc:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -8871,7 +8871,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceSearchResultTitle
+     * @attr name br.monteoliva.mynfc:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -8884,7 +8884,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceSmallPopupMenu
+     * @attr name br.monteoliva.mynfc:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -8900,7 +8900,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textColorAlertDialogListItem
+     * @attr name br.monteoliva.mynfc:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -8916,7 +8916,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textColorSearchUrl
+     * @attr name br.monteoliva.mynfc:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -8929,7 +8929,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:toolbarNavigationButtonStyle
+     * @attr name br.monteoliva.mynfc:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -8942,7 +8942,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:toolbarStyle
+     * @attr name br.monteoliva.mynfc:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -8958,7 +8958,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tooltipForegroundColor
+     * @attr name br.monteoliva.mynfc:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -8971,17 +8971,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tooltipFrameBackground
+     * @attr name br.monteoliva.mynfc:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:viewInflaterClass
+     * @attr name br.monteoliva.mynfc:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -8993,7 +8993,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:windowActionBar
+     * @attr name br.monteoliva.mynfc:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -9006,7 +9006,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:windowActionBarOverlay
+     * @attr name br.monteoliva.mynfc:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -9018,7 +9018,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:windowActionModeOverlay
+     * @attr name br.monteoliva.mynfc:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -9038,7 +9038,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowFixedHeightMajor
+     * @attr name br.monteoliva.mynfc:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -9058,7 +9058,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowFixedHeightMinor
+     * @attr name br.monteoliva.mynfc:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -9078,7 +9078,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowFixedWidthMajor
+     * @attr name br.monteoliva.mynfc:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -9098,7 +9098,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowFixedWidthMinor
+     * @attr name br.monteoliva.mynfc:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -9119,7 +9119,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowMinWidthMajor
+     * @attr name br.monteoliva.mynfc:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -9140,7 +9140,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:windowMinWidthMinor
+     * @attr name br.monteoliva.mynfc:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -9151,7 +9151,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:windowNoTitle
+     * @attr name br.monteoliva.mynfc:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -9161,12 +9161,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint br.evoluinet.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode br.evoluinet.mynfc:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin br.evoluinet.mynfc:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius br.evoluinet.mynfc:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset br.evoluinet.mynfc:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll br.evoluinet.mynfc:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint br.monteoliva.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode br.monteoliva.mynfc:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin br.monteoliva.mynfc:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius br.monteoliva.mynfc:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset br.monteoliva.mynfc:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll br.monteoliva.mynfc:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -9188,11 +9188,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundTint
+     * @attr name br.monteoliva.mynfc:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9205,11 +9205,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:fabAlignmentMode
+     * @attr name br.monteoliva.mynfc:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9218,11 +9218,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:fabCradleMargin
+     * @attr name br.monteoliva.mynfc:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9231,11 +9231,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:fabCradleRoundedCornerRadius
+     * @attr name br.monteoliva.mynfc:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9244,17 +9244,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:fabCradleVerticalOffset
+     * @attr name br.monteoliva.mynfc:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:hideOnScroll
+     * @attr name br.monteoliva.mynfc:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -9264,16 +9264,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground br.evoluinet.mynfc:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled br.evoluinet.mynfc:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize br.evoluinet.mynfc:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint br.evoluinet.mynfc:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive br.evoluinet.mynfc:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive br.evoluinet.mynfc:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor br.evoluinet.mynfc:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode br.evoluinet.mynfc:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu br.evoluinet.mynfc:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground br.monteoliva.mynfc:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled br.monteoliva.mynfc:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize br.monteoliva.mynfc:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint br.monteoliva.mynfc:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive br.monteoliva.mynfc:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive br.monteoliva.mynfc:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor br.monteoliva.mynfc:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode br.monteoliva.mynfc:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu br.monteoliva.mynfc:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -9302,11 +9302,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9314,21 +9314,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemBackground
+     * @attr name br.monteoliva.mynfc:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:itemHorizontalTranslationEnabled
+     * @attr name br.monteoliva.mynfc:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9337,22 +9337,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:itemIconSize
+     * @attr name br.monteoliva.mynfc:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemIconTint
+     * @attr name br.monteoliva.mynfc:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9360,11 +9360,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemTextAppearanceActive
+     * @attr name br.monteoliva.mynfc:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9372,22 +9372,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemTextAppearanceInactive
+     * @attr name br.monteoliva.mynfc:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemTextColor
+     * @attr name br.monteoliva.mynfc:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9402,11 +9402,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:labelVisibilityMode
+     * @attr name br.monteoliva.mynfc:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#menu}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9414,7 +9414,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:menu
+     * @attr name br.monteoliva.mynfc:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -9424,10 +9424,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents br.evoluinet.mynfc:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable br.evoluinet.mynfc:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight br.evoluinet.mynfc:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed br.evoluinet.mynfc:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents br.monteoliva.mynfc:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable br.monteoliva.mynfc:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight br.monteoliva.mynfc:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed br.monteoliva.mynfc:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -9438,27 +9438,27 @@ public final class R {
       0x7f030038, 0x7f030039, 0x7f03003b, 0x7f03003c
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:behavior_fitToContents
+     * @attr name br.monteoliva.mynfc:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:behavior_hideable
+     * @attr name br.monteoliva.mynfc:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9475,17 +9475,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:behavior_peekHeight
+     * @attr name br.monteoliva.mynfc:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:behavior_skipCollapsed
+     * @attr name br.monteoliva.mynfc:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -9495,7 +9495,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking br.evoluinet.mynfc:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking br.monteoliva.mynfc:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -9512,7 +9512,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:allowStacking
+     * @attr name br.monteoliva.mynfc:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -9524,17 +9524,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor br.evoluinet.mynfc:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius br.evoluinet.mynfc:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation br.evoluinet.mynfc:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation br.evoluinet.mynfc:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap br.evoluinet.mynfc:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding br.evoluinet.mynfc:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding br.evoluinet.mynfc:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom br.evoluinet.mynfc:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft br.evoluinet.mynfc:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight br.evoluinet.mynfc:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop br.evoluinet.mynfc:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor br.monteoliva.mynfc:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius br.monteoliva.mynfc:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation br.monteoliva.mynfc:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation br.monteoliva.mynfc:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap br.monteoliva.mynfc:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding br.monteoliva.mynfc:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding br.monteoliva.mynfc:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom br.monteoliva.mynfc:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft br.monteoliva.mynfc:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight br.monteoliva.mynfc:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop br.monteoliva.mynfc:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -9593,7 +9593,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:cardBackgroundColor
+     * @attr name br.monteoliva.mynfc:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -9607,7 +9607,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:cardCornerRadius
+     * @attr name br.monteoliva.mynfc:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -9621,7 +9621,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:cardElevation
+     * @attr name br.monteoliva.mynfc:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -9635,7 +9635,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:cardMaxElevation
+     * @attr name br.monteoliva.mynfc:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -9646,7 +9646,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:cardPreventCornerOverlap
+     * @attr name br.monteoliva.mynfc:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -9657,7 +9657,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:cardUseCompatPadding
+     * @attr name br.monteoliva.mynfc:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -9671,7 +9671,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentPadding
+     * @attr name br.monteoliva.mynfc:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -9685,7 +9685,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentPaddingBottom
+     * @attr name br.monteoliva.mynfc:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -9699,7 +9699,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentPaddingLeft
+     * @attr name br.monteoliva.mynfc:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -9713,7 +9713,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentPaddingRight
+     * @attr name br.monteoliva.mynfc:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -9727,7 +9727,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentPaddingTop
+     * @attr name br.monteoliva.mynfc:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -9742,35 +9742,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon br.evoluinet.mynfc:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled br.evoluinet.mynfc:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible br.evoluinet.mynfc:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor br.evoluinet.mynfc:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius br.evoluinet.mynfc:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding br.evoluinet.mynfc:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon br.evoluinet.mynfc:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled br.evoluinet.mynfc:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize br.evoluinet.mynfc:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint br.evoluinet.mynfc:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible br.evoluinet.mynfc:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight br.evoluinet.mynfc:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding br.evoluinet.mynfc:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor br.evoluinet.mynfc:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth br.evoluinet.mynfc:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon br.evoluinet.mynfc:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled br.evoluinet.mynfc:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding br.evoluinet.mynfc:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize br.evoluinet.mynfc:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding br.evoluinet.mynfc:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint br.evoluinet.mynfc:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible br.evoluinet.mynfc:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec br.evoluinet.mynfc:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding br.evoluinet.mynfc:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding br.evoluinet.mynfc:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor br.evoluinet.mynfc:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec br.evoluinet.mynfc:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding br.evoluinet.mynfc:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding br.evoluinet.mynfc:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon br.monteoliva.mynfc:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled br.monteoliva.mynfc:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible br.monteoliva.mynfc:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor br.monteoliva.mynfc:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius br.monteoliva.mynfc:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding br.monteoliva.mynfc:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon br.monteoliva.mynfc:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled br.monteoliva.mynfc:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize br.monteoliva.mynfc:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint br.monteoliva.mynfc:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible br.monteoliva.mynfc:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight br.monteoliva.mynfc:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding br.monteoliva.mynfc:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor br.monteoliva.mynfc:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth br.monteoliva.mynfc:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon br.monteoliva.mynfc:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled br.monteoliva.mynfc:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding br.monteoliva.mynfc:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize br.monteoliva.mynfc:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding br.monteoliva.mynfc:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint br.monteoliva.mynfc:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible br.monteoliva.mynfc:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec br.monteoliva.mynfc:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding br.monteoliva.mynfc:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding br.monteoliva.mynfc:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor br.monteoliva.mynfc:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec br.monteoliva.mynfc:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding br.monteoliva.mynfc:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding br.monteoliva.mynfc:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -9884,7 +9884,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9892,42 +9892,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:checkedIcon
+     * @attr name br.monteoliva.mynfc:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:checkedIconEnabled
+     * @attr name br.monteoliva.mynfc:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:checkedIconVisible
+     * @attr name br.monteoliva.mynfc:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipBackgroundColor
+     * @attr name br.monteoliva.mynfc:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9936,11 +9936,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipCornerRadius
+     * @attr name br.monteoliva.mynfc:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9949,11 +9949,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipEndPadding
+     * @attr name br.monteoliva.mynfc:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9961,21 +9961,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipIcon
+     * @attr name br.monteoliva.mynfc:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:chipIconEnabled
+     * @attr name br.monteoliva.mynfc:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9984,32 +9984,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipIconSize
+     * @attr name br.monteoliva.mynfc:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipIconTint
+     * @attr name br.monteoliva.mynfc:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:chipIconVisible
+     * @attr name br.monteoliva.mynfc:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10018,11 +10018,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipMinHeight
+     * @attr name br.monteoliva.mynfc:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10031,22 +10031,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipStartPadding
+     * @attr name br.monteoliva.mynfc:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipStrokeColor
+     * @attr name br.monteoliva.mynfc:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10055,7 +10055,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipStrokeWidth
+     * @attr name br.monteoliva.mynfc:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -10068,21 +10068,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:closeIcon
+     * @attr name br.monteoliva.mynfc:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:closeIconEnabled
+     * @attr name br.monteoliva.mynfc:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10091,11 +10091,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:closeIconEndPadding
+     * @attr name br.monteoliva.mynfc:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10104,11 +10104,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:closeIconSize
+     * @attr name br.monteoliva.mynfc:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10117,32 +10117,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:closeIconStartPadding
+     * @attr name br.monteoliva.mynfc:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:closeIconTint
+     * @attr name br.monteoliva.mynfc:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:closeIconVisible
+     * @attr name br.monteoliva.mynfc:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10150,11 +10150,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:hideMotionSpec
+     * @attr name br.monteoliva.mynfc:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10163,11 +10163,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:iconEndPadding
+     * @attr name br.monteoliva.mynfc:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10176,22 +10176,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:iconStartPadding
+     * @attr name br.monteoliva.mynfc:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:rippleColor
+     * @attr name br.monteoliva.mynfc:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10199,11 +10199,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:showMotionSpec
+     * @attr name br.monteoliva.mynfc:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10212,11 +10212,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:textEndPadding
+     * @attr name br.monteoliva.mynfc:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10225,7 +10225,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:textStartPadding
+     * @attr name br.monteoliva.mynfc:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -10235,12 +10235,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip br.evoluinet.mynfc:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing br.evoluinet.mynfc:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal br.evoluinet.mynfc:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical br.evoluinet.mynfc:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine br.evoluinet.mynfc:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection br.evoluinet.mynfc:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip br.monteoliva.mynfc:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing br.monteoliva.mynfc:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal br.monteoliva.mynfc:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical br.monteoliva.mynfc:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine br.monteoliva.mynfc:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection br.monteoliva.mynfc:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -10254,7 +10254,7 @@ public final class R {
       0x7f03015d, 0x7f03015e
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10262,11 +10262,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:checkedChip
+     * @attr name br.monteoliva.mynfc:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10275,11 +10275,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipSpacing
+     * @attr name br.monteoliva.mynfc:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10288,11 +10288,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipSpacingHorizontal
+     * @attr name br.monteoliva.mynfc:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10301,27 +10301,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:chipSpacingVertical
+     * @attr name br.monteoliva.mynfc:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:singleLine
+     * @attr name br.monteoliva.mynfc:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:singleSelection
+     * @attr name br.monteoliva.mynfc:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -10331,22 +10331,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity br.evoluinet.mynfc:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance br.evoluinet.mynfc:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim br.evoluinet.mynfc:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity br.evoluinet.mynfc:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin br.evoluinet.mynfc:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom br.evoluinet.mynfc:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd br.evoluinet.mynfc:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart br.evoluinet.mynfc:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop br.evoluinet.mynfc:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance br.evoluinet.mynfc:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration br.evoluinet.mynfc:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger br.evoluinet.mynfc:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim br.evoluinet.mynfc:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title br.evoluinet.mynfc:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled br.evoluinet.mynfc:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId br.evoluinet.mynfc:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity br.monteoliva.mynfc:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance br.monteoliva.mynfc:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim br.monteoliva.mynfc:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity br.monteoliva.mynfc:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin br.monteoliva.mynfc:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom br.monteoliva.mynfc:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd br.monteoliva.mynfc:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart br.monteoliva.mynfc:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop br.monteoliva.mynfc:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance br.monteoliva.mynfc:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration br.monteoliva.mynfc:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger br.monteoliva.mynfc:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim br.monteoliva.mynfc:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title br.monteoliva.mynfc:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled br.monteoliva.mynfc:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId br.monteoliva.mynfc:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -10372,7 +10372,7 @@ public final class R {
       0x7f03016e, 0x7f0301bb, 0x7f0301bc, 0x7f0301c6
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10393,11 +10393,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:collapsedTitleGravity
+     * @attr name br.monteoliva.mynfc:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10405,22 +10405,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:collapsedTitleTextAppearance
+     * @attr name br.monteoliva.mynfc:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:contentScrim
+     * @attr name br.monteoliva.mynfc:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10441,11 +10441,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleGravity
+     * @attr name br.monteoliva.mynfc:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10454,11 +10454,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleMargin
+     * @attr name br.monteoliva.mynfc:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10467,11 +10467,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleMarginBottom
+     * @attr name br.monteoliva.mynfc:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10480,11 +10480,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleMarginEnd
+     * @attr name br.monteoliva.mynfc:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10493,11 +10493,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleMarginStart
+     * @attr name br.monteoliva.mynfc:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10506,11 +10506,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleMarginTop
+     * @attr name br.monteoliva.mynfc:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10518,20 +10518,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:expandedTitleTextAppearance
+     * @attr name br.monteoliva.mynfc:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:scrimAnimationDuration
+     * @attr name br.monteoliva.mynfc:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10540,42 +10540,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:scrimVisibleHeightTrigger
+     * @attr name br.monteoliva.mynfc:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:statusBarScrim
+     * @attr name br.monteoliva.mynfc:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#title}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:title
+     * @attr name br.monteoliva.mynfc:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:titleEnabled
+     * @attr name br.monteoliva.mynfc:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10583,7 +10583,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:toolbarId
+     * @attr name br.monteoliva.mynfc:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -10593,8 +10593,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode br.evoluinet.mynfc:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier br.evoluinet.mynfc:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode br.monteoliva.mynfc:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier br.monteoliva.mynfc:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -10603,7 +10603,7 @@ public final class R {
       0x7f03010e, 0x7f03010f
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10617,16 +10617,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:layout_collapseMode
+     * @attr name br.monteoliva.mynfc:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.evoluinet.mynfc:layout_collapseParallaxMultiplier
+     * @attr name br.monteoliva.mynfc:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -10638,7 +10638,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha br.evoluinet.mynfc:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha br.monteoliva.mynfc:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -10675,7 +10675,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.evoluinet.mynfc:alpha
+     * @attr name br.monteoliva.mynfc:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -10686,8 +10686,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint br.evoluinet.mynfc:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode br.evoluinet.mynfc:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint br.monteoliva.mynfc:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode br.monteoliva.mynfc:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -10717,7 +10717,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:buttonTint
+     * @attr name br.monteoliva.mynfc:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -10744,7 +10744,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:buttonTintMode
+     * @attr name br.monteoliva.mynfc:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -10754,9 +10754,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines br.evoluinet.mynfc:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines br.monteoliva.mynfc:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground br.evoluinet.mynfc:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground br.monteoliva.mynfc:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -10778,7 +10778,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:keylines
+     * @attr name br.monteoliva.mynfc:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -10794,7 +10794,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:statusBarBackground
+     * @attr name br.monteoliva.mynfc:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -10805,15 +10805,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor br.evoluinet.mynfc:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity br.evoluinet.mynfc:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor br.monteoliva.mynfc:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity br.monteoliva.mynfc:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior br.evoluinet.mynfc:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior br.monteoliva.mynfc:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges br.evoluinet.mynfc:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge br.evoluinet.mynfc:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges br.monteoliva.mynfc:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge br.monteoliva.mynfc:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline br.evoluinet.mynfc:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline br.monteoliva.mynfc:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -10866,7 +10866,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:layout_anchor
+     * @attr name br.monteoliva.mynfc:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -10903,7 +10903,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:layout_anchorGravity
+     * @attr name br.monteoliva.mynfc:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -10915,7 +10915,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:layout_behavior
+     * @attr name br.monteoliva.mynfc:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -10939,7 +10939,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:layout_dodgeInsetEdges
+     * @attr name br.monteoliva.mynfc:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -10963,7 +10963,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:layout_insetEdge
+     * @attr name br.monteoliva.mynfc:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -10975,7 +10975,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:layout_keyline
+     * @attr name br.monteoliva.mynfc:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -10985,8 +10985,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme br.evoluinet.mynfc:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle br.evoluinet.mynfc:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme br.monteoliva.mynfc:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle br.monteoliva.mynfc:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -10995,7 +10995,7 @@ public final class R {
       0x7f030041, 0x7f030042
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11003,11 +11003,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:bottomSheetDialogTheme
+     * @attr name br.monteoliva.mynfc:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11015,7 +11015,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:bottomSheetStyle
+     * @attr name br.monteoliva.mynfc:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -11025,14 +11025,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength br.evoluinet.mynfc:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength br.evoluinet.mynfc:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength br.evoluinet.mynfc:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color br.evoluinet.mynfc:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize br.evoluinet.mynfc:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars br.evoluinet.mynfc:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars br.evoluinet.mynfc:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness br.evoluinet.mynfc:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength br.monteoliva.mynfc:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength br.monteoliva.mynfc:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength br.monteoliva.mynfc:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color br.monteoliva.mynfc:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize br.monteoliva.mynfc:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars br.monteoliva.mynfc:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars br.monteoliva.mynfc:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness br.monteoliva.mynfc:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11058,7 +11058,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:arrowHeadLength
+     * @attr name br.monteoliva.mynfc:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -11072,7 +11072,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:arrowShaftLength
+     * @attr name br.monteoliva.mynfc:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -11086,7 +11086,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:barLength
+     * @attr name br.monteoliva.mynfc:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -11098,7 +11098,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:color
+     * @attr name br.monteoliva.mynfc:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -11112,7 +11112,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:drawableSize
+     * @attr name br.monteoliva.mynfc:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -11126,7 +11126,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:gapBetweenBars
+     * @attr name br.monteoliva.mynfc:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -11137,7 +11137,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:spinBars
+     * @attr name br.monteoliva.mynfc:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -11151,7 +11151,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:thickness
+     * @attr name br.monteoliva.mynfc:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11161,19 +11161,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint br.evoluinet.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode br.evoluinet.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth br.evoluinet.mynfc:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize br.evoluinet.mynfc:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize br.evoluinet.mynfc:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec br.evoluinet.mynfc:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ br.evoluinet.mynfc:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize br.evoluinet.mynfc:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ br.evoluinet.mynfc:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor br.evoluinet.mynfc:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec br.evoluinet.mynfc:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding br.evoluinet.mynfc:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint br.monteoliva.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode br.monteoliva.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth br.monteoliva.mynfc:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize br.monteoliva.mynfc:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize br.monteoliva.mynfc:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec br.monteoliva.mynfc:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ br.monteoliva.mynfc:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize br.monteoliva.mynfc:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ br.monteoliva.mynfc:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor br.monteoliva.mynfc:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec br.monteoliva.mynfc:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding br.monteoliva.mynfc:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11204,7 +11204,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundTint
+     * @attr name br.monteoliva.mynfc:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -11231,11 +11231,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:backgroundTintMode
+     * @attr name br.monteoliva.mynfc:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11244,7 +11244,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:borderWidth
+     * @attr name br.monteoliva.mynfc:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -11258,11 +11258,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11271,11 +11271,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:fabCustomSize
+     * @attr name br.monteoliva.mynfc:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11289,11 +11289,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:fabSize
+     * @attr name br.monteoliva.mynfc:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11301,11 +11301,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:hideMotionSpec
+     * @attr name br.monteoliva.mynfc:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11314,11 +11314,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:hoveredFocusedTranslationZ
+     * @attr name br.monteoliva.mynfc:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11327,11 +11327,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:maxImageSize
+     * @attr name br.monteoliva.mynfc:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11340,22 +11340,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:pressedTranslationZ
+     * @attr name br.monteoliva.mynfc:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:rippleColor
+     * @attr name br.monteoliva.mynfc:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11363,17 +11363,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:showMotionSpec
+     * @attr name br.monteoliva.mynfc:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:useCompatPadding
+     * @attr name br.monteoliva.mynfc:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -11383,7 +11383,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide br.evoluinet.mynfc:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide br.monteoliva.mynfc:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -11391,13 +11391,13 @@ public final class R {
       0x7f030037
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:behavior_autoHide
+     * @attr name br.monteoliva.mynfc:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -11407,8 +11407,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing br.evoluinet.mynfc:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing br.evoluinet.mynfc:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing br.monteoliva.mynfc:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing br.monteoliva.mynfc:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -11417,7 +11417,7 @@ public final class R {
       0x7f030101, 0x7f030117
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11426,11 +11426,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:itemSpacing
+     * @attr name br.monteoliva.mynfc:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11439,7 +11439,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:lineSpacing
+     * @attr name br.monteoliva.mynfc:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -11449,12 +11449,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority br.evoluinet.mynfc:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts br.evoluinet.mynfc:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy br.evoluinet.mynfc:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout br.evoluinet.mynfc:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage br.evoluinet.mynfc:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery br.evoluinet.mynfc:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority br.monteoliva.mynfc:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts br.monteoliva.mynfc:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy br.monteoliva.mynfc:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout br.monteoliva.mynfc:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage br.monteoliva.mynfc:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery br.monteoliva.mynfc:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -11475,7 +11475,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontProviderAuthority
+     * @attr name br.monteoliva.mynfc:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -11492,7 +11492,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:fontProviderCerts
+     * @attr name br.monteoliva.mynfc:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -11524,7 +11524,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:fontProviderFetchStrategy
+     * @attr name br.monteoliva.mynfc:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -11543,7 +11543,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:fontProviderFetchTimeout
+     * @attr name br.monteoliva.mynfc:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -11555,7 +11555,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontProviderPackage
+     * @attr name br.monteoliva.mynfc:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -11567,7 +11567,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontProviderQuery
+     * @attr name br.monteoliva.mynfc:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -11582,11 +11582,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font br.evoluinet.mynfc:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle br.evoluinet.mynfc:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings br.evoluinet.mynfc:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight br.evoluinet.mynfc:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex br.evoluinet.mynfc:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font br.monteoliva.mynfc:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle br.monteoliva.mynfc:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings br.monteoliva.mynfc:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight br.monteoliva.mynfc:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex br.monteoliva.mynfc:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -11673,7 +11673,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:font
+     * @attr name br.monteoliva.mynfc:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -11693,7 +11693,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:fontStyle
+     * @attr name br.monteoliva.mynfc:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -11707,7 +11707,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontVariationSettings
+     * @attr name br.monteoliva.mynfc:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -11721,7 +11721,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:fontWeight
+     * @attr name br.monteoliva.mynfc:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -11732,7 +11732,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:ttcIndex
+     * @attr name br.monteoliva.mynfc:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -11744,7 +11744,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding br.evoluinet.mynfc:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding br.monteoliva.mynfc:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11796,13 +11796,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:foregroundInsidePadding
+     * @attr name br.monteoliva.mynfc:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -12060,11 +12060,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider br.evoluinet.mynfc:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding br.evoluinet.mynfc:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild br.evoluinet.mynfc:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider br.monteoliva.mynfc:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding br.monteoliva.mynfc:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild br.monteoliva.mynfc:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers br.evoluinet.mynfc:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers br.monteoliva.mynfc:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -12179,7 +12179,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:divider
+     * @attr name br.monteoliva.mynfc:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -12193,7 +12193,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:dividerPadding
+     * @attr name br.monteoliva.mynfc:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -12206,7 +12206,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:measureWithLargestChild
+     * @attr name br.monteoliva.mynfc:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -12226,7 +12226,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:showDividers
+     * @attr name br.monteoliva.mynfc:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -12388,18 +12388,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint br.evoluinet.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode br.evoluinet.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius br.evoluinet.mynfc:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon br.evoluinet.mynfc:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity br.evoluinet.mynfc:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding br.evoluinet.mynfc:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize br.evoluinet.mynfc:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint br.evoluinet.mynfc:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode br.evoluinet.mynfc:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor br.evoluinet.mynfc:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor br.evoluinet.mynfc:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth br.evoluinet.mynfc:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint br.monteoliva.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode br.monteoliva.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius br.monteoliva.mynfc:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon br.monteoliva.mynfc:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity br.monteoliva.mynfc:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding br.monteoliva.mynfc:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize br.monteoliva.mynfc:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint br.monteoliva.mynfc:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode br.monteoliva.mynfc:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor br.monteoliva.mynfc:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor br.monteoliva.mynfc:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth br.monteoliva.mynfc:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -12501,7 +12501,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundTint
+     * @attr name br.monteoliva.mynfc:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -12528,11 +12528,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:backgroundTintMode
+     * @attr name br.monteoliva.mynfc:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12541,11 +12541,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:cornerRadius
+     * @attr name br.monteoliva.mynfc:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#icon}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12553,11 +12553,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:icon
+     * @attr name br.monteoliva.mynfc:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12570,11 +12570,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:iconGravity
+     * @attr name br.monteoliva.mynfc:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12583,11 +12583,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:iconPadding
+     * @attr name br.monteoliva.mynfc:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12596,7 +12596,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:iconSize
+     * @attr name br.monteoliva.mynfc:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -12608,7 +12608,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:iconTint
+     * @attr name br.monteoliva.mynfc:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -12635,33 +12635,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:iconTintMode
+     * @attr name br.monteoliva.mynfc:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:rippleColor
+     * @attr name br.monteoliva.mynfc:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:strokeColor
+     * @attr name br.monteoliva.mynfc:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12670,7 +12670,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:strokeWidth
+     * @attr name br.monteoliva.mynfc:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -12680,8 +12680,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor br.evoluinet.mynfc:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth br.evoluinet.mynfc:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor br.monteoliva.mynfc:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth br.monteoliva.mynfc:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -12690,18 +12690,18 @@ public final class R {
       0x7f03016f, 0x7f030170
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:strokeColor
+     * @attr name br.monteoliva.mynfc:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12710,7 +12710,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:strokeWidth
+     * @attr name br.monteoliva.mynfc:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -12720,38 +12720,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme br.evoluinet.mynfc:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle br.evoluinet.mynfc:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle br.evoluinet.mynfc:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle br.evoluinet.mynfc:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle br.evoluinet.mynfc:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent br.evoluinet.mynfc:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating br.evoluinet.mynfc:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary br.evoluinet.mynfc:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark br.evoluinet.mynfc:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary br.evoluinet.mynfc:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle br.evoluinet.mynfc:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle br.evoluinet.mynfc:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle br.evoluinet.mynfc:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle br.evoluinet.mynfc:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle br.evoluinet.mynfc:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground br.evoluinet.mynfc:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle br.evoluinet.mynfc:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle br.evoluinet.mynfc:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 br.evoluinet.mynfc:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 br.evoluinet.mynfc:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton br.evoluinet.mynfc:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption br.evoluinet.mynfc:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 br.evoluinet.mynfc:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 br.evoluinet.mynfc:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 br.evoluinet.mynfc:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 br.evoluinet.mynfc:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 br.evoluinet.mynfc:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 br.evoluinet.mynfc:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline br.evoluinet.mynfc:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 br.evoluinet.mynfc:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 br.evoluinet.mynfc:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle br.evoluinet.mynfc:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme br.monteoliva.mynfc:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle br.monteoliva.mynfc:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle br.monteoliva.mynfc:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle br.monteoliva.mynfc:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle br.monteoliva.mynfc:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent br.monteoliva.mynfc:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating br.monteoliva.mynfc:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary br.monteoliva.mynfc:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark br.monteoliva.mynfc:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary br.monteoliva.mynfc:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle br.monteoliva.mynfc:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle br.monteoliva.mynfc:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle br.monteoliva.mynfc:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle br.monteoliva.mynfc:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle br.monteoliva.mynfc:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground br.monteoliva.mynfc:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle br.monteoliva.mynfc:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle br.monteoliva.mynfc:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 br.monteoliva.mynfc:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 br.monteoliva.mynfc:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton br.monteoliva.mynfc:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption br.monteoliva.mynfc:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 br.monteoliva.mynfc:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 br.monteoliva.mynfc:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 br.monteoliva.mynfc:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 br.monteoliva.mynfc:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 br.monteoliva.mynfc:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 br.monteoliva.mynfc:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline br.monteoliva.mynfc:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 br.monteoliva.mynfc:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 br.monteoliva.mynfc:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle br.monteoliva.mynfc:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -12797,7 +12797,7 @@ public final class R {
       0x7f0301a5, 0x7f0301aa, 0x7f0301ab, 0x7f0301af
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12805,11 +12805,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:bottomSheetDialogTheme
+     * @attr name br.monteoliva.mynfc:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12817,11 +12817,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:bottomSheetStyle
+     * @attr name br.monteoliva.mynfc:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12829,11 +12829,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipGroupStyle
+     * @attr name br.monteoliva.mynfc:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12841,11 +12841,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipStandaloneStyle
+     * @attr name br.monteoliva.mynfc:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12853,7 +12853,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:chipStyle
+     * @attr name br.monteoliva.mynfc:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -12866,7 +12866,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorAccent
+     * @attr name br.monteoliva.mynfc:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -12878,7 +12878,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorBackgroundFloating
+     * @attr name br.monteoliva.mynfc:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -12891,7 +12891,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorPrimary
+     * @attr name br.monteoliva.mynfc:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -12904,18 +12904,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorPrimaryDark
+     * @attr name br.monteoliva.mynfc:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:colorSecondary
+     * @attr name br.monteoliva.mynfc:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -12928,11 +12928,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:editTextStyle
+     * @attr name br.monteoliva.mynfc:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12958,11 +12958,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.evoluinet.mynfc:floatingActionButtonStyle
+     * @attr name br.monteoliva.mynfc:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12970,11 +12970,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:materialButtonStyle
+     * @attr name br.monteoliva.mynfc:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12982,11 +12982,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:materialCardViewStyle
+     * @attr name br.monteoliva.mynfc:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12994,11 +12994,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:navigationViewStyle
+     * @attr name br.monteoliva.mynfc:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13009,11 +13009,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:scrimBackground
+     * @attr name br.monteoliva.mynfc:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13021,11 +13021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:snackbarButtonStyle
+     * @attr name br.monteoliva.mynfc:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13033,11 +13033,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabStyle
+     * @attr name br.monteoliva.mynfc:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13045,11 +13045,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceBody1
+     * @attr name br.monteoliva.mynfc:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13057,11 +13057,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceBody2
+     * @attr name br.monteoliva.mynfc:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13069,11 +13069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceButton
+     * @attr name br.monteoliva.mynfc:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13081,11 +13081,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceCaption
+     * @attr name br.monteoliva.mynfc:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13093,11 +13093,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline1
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13105,11 +13105,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline2
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13117,11 +13117,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline3
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13129,11 +13129,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline4
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13141,11 +13141,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline5
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13153,11 +13153,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceHeadline6
+     * @attr name br.monteoliva.mynfc:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13165,11 +13165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceOverline
+     * @attr name br.monteoliva.mynfc:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13177,11 +13177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceSubtitle1
+     * @attr name br.monteoliva.mynfc:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13189,11 +13189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textAppearanceSubtitle2
+     * @attr name br.monteoliva.mynfc:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13201,7 +13201,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:textInputStyle
+     * @attr name br.monteoliva.mynfc:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -13335,18 +13335,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout br.evoluinet.mynfc:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass br.evoluinet.mynfc:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout br.monteoliva.mynfc:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass br.monteoliva.mynfc:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass br.evoluinet.mynfc:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass br.monteoliva.mynfc:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers br.evoluinet.mynfc:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription br.evoluinet.mynfc:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint br.evoluinet.mynfc:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode br.evoluinet.mynfc:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers br.evoluinet.mynfc:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction br.evoluinet.mynfc:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText br.evoluinet.mynfc:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers br.monteoliva.mynfc:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription br.monteoliva.mynfc:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint br.monteoliva.mynfc:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode br.monteoliva.mynfc:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers br.monteoliva.mynfc:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction br.monteoliva.mynfc:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText br.monteoliva.mynfc:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -13555,7 +13555,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:actionLayout
+     * @attr name br.monteoliva.mynfc:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -13569,7 +13569,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:actionProviderClass
+     * @attr name br.monteoliva.mynfc:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -13582,7 +13582,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:actionViewClass
+     * @attr name br.monteoliva.mynfc:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -13605,7 +13605,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:alphabeticModifiers
+     * @attr name br.monteoliva.mynfc:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -13616,7 +13616,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:contentDescription
+     * @attr name br.monteoliva.mynfc:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -13628,7 +13628,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:iconTint
+     * @attr name br.monteoliva.mynfc:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -13655,7 +13655,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:iconTintMode
+     * @attr name br.monteoliva.mynfc:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -13678,7 +13678,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:numericModifiers
+     * @attr name br.monteoliva.mynfc:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -13708,7 +13708,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:showAsAction
+     * @attr name br.monteoliva.mynfc:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -13719,7 +13719,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:tooltipText
+     * @attr name br.monteoliva.mynfc:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -13736,8 +13736,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing br.evoluinet.mynfc:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow br.evoluinet.mynfc:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing br.monteoliva.mynfc:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow br.monteoliva.mynfc:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -13856,7 +13856,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:preserveIconSpacing
+     * @attr name br.monteoliva.mynfc:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -13869,7 +13869,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:subMenuArrow
+     * @attr name br.monteoliva.mynfc:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -13882,15 +13882,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout br.evoluinet.mynfc:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground br.evoluinet.mynfc:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding br.evoluinet.mynfc:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding br.evoluinet.mynfc:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint br.evoluinet.mynfc:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance br.evoluinet.mynfc:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor br.evoluinet.mynfc:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu br.evoluinet.mynfc:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout br.monteoliva.mynfc:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground br.monteoliva.mynfc:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding br.monteoliva.mynfc:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding br.monteoliva.mynfc:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint br.monteoliva.mynfc:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance br.monteoliva.mynfc:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor br.monteoliva.mynfc:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu br.monteoliva.mynfc:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -13959,11 +13959,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13971,11 +13971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:headerLayout
+     * @attr name br.monteoliva.mynfc:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13983,11 +13983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemBackground
+     * @attr name br.monteoliva.mynfc:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13996,11 +13996,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:itemHorizontalPadding
+     * @attr name br.monteoliva.mynfc:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14009,22 +14009,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:itemIconPadding
+     * @attr name br.monteoliva.mynfc:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemIconTint
+     * @attr name br.monteoliva.mynfc:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14032,22 +14032,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemTextAppearance
+     * @attr name br.monteoliva.mynfc:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:itemTextColor
+     * @attr name br.monteoliva.mynfc:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#menu}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14055,7 +14055,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:menu
+     * @attr name br.monteoliva.mynfc:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -14067,7 +14067,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor br.evoluinet.mynfc:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor br.monteoliva.mynfc:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -14111,7 +14111,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:overlapAnchor
+     * @attr name br.monteoliva.mynfc:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -14121,7 +14121,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor br.evoluinet.mynfc:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor br.monteoliva.mynfc:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -14136,7 +14136,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:state_above_anchor
+     * @attr name br.monteoliva.mynfc:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -14146,8 +14146,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons br.evoluinet.mynfc:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle br.evoluinet.mynfc:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons br.monteoliva.mynfc:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle br.monteoliva.mynfc:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -14166,7 +14166,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:paddingBottomNoButtons
+     * @attr name br.monteoliva.mynfc:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -14180,7 +14180,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:paddingTopNoTitle
+     * @attr name br.monteoliva.mynfc:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -14192,15 +14192,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled br.evoluinet.mynfc:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable br.evoluinet.mynfc:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable br.evoluinet.mynfc:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable br.evoluinet.mynfc:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable br.evoluinet.mynfc:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager br.evoluinet.mynfc:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout br.evoluinet.mynfc:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount br.evoluinet.mynfc:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd br.evoluinet.mynfc:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled br.monteoliva.mynfc:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable br.monteoliva.mynfc:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable br.monteoliva.mynfc:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable br.monteoliva.mynfc:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable br.monteoliva.mynfc:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager br.monteoliva.mynfc:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout br.monteoliva.mynfc:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount br.monteoliva.mynfc:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd br.monteoliva.mynfc:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -14255,17 +14255,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:fastScrollEnabled
+     * @attr name br.monteoliva.mynfc:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14273,11 +14273,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:fastScrollHorizontalThumbDrawable
+     * @attr name br.monteoliva.mynfc:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14285,11 +14285,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:fastScrollHorizontalTrackDrawable
+     * @attr name br.monteoliva.mynfc:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14297,11 +14297,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:fastScrollVerticalThumbDrawable
+     * @attr name br.monteoliva.mynfc:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14309,7 +14309,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:fastScrollVerticalTrackDrawable
+     * @attr name br.monteoliva.mynfc:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -14328,36 +14328,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:layoutManager
+     * @attr name br.monteoliva.mynfc:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:reverseLayout
+     * @attr name br.monteoliva.mynfc:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:spanCount
+     * @attr name br.monteoliva.mynfc:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:stackFromEnd
+     * @attr name br.monteoliva.mynfc:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -14367,7 +14367,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground br.evoluinet.mynfc:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground br.monteoliva.mynfc:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -14375,7 +14375,7 @@ public final class R {
       0x7f0300f8
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14386,7 +14386,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:insetForeground
+     * @attr name br.monteoliva.mynfc:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -14396,7 +14396,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop br.evoluinet.mynfc:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop br.monteoliva.mynfc:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -14404,7 +14404,7 @@ public final class R {
       0x7f03003a
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14413,7 +14413,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:behavior_overlapTop
+     * @attr name br.monteoliva.mynfc:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -14427,20 +14427,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon br.evoluinet.mynfc:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon br.evoluinet.mynfc:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint br.evoluinet.mynfc:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon br.monteoliva.mynfc:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon br.monteoliva.mynfc:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint br.monteoliva.mynfc:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon br.evoluinet.mynfc:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault br.evoluinet.mynfc:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout br.evoluinet.mynfc:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground br.evoluinet.mynfc:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint br.evoluinet.mynfc:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon br.evoluinet.mynfc:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon br.evoluinet.mynfc:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground br.evoluinet.mynfc:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout br.evoluinet.mynfc:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon br.evoluinet.mynfc:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon br.monteoliva.mynfc:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault br.monteoliva.mynfc:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout br.monteoliva.mynfc:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground br.monteoliva.mynfc:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint br.monteoliva.mynfc:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon br.monteoliva.mynfc:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon br.monteoliva.mynfc:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground br.monteoliva.mynfc:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout br.monteoliva.mynfc:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon br.monteoliva.mynfc:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -14590,7 +14590,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:closeIcon
+     * @attr name br.monteoliva.mynfc:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -14603,7 +14603,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:commitIcon
+     * @attr name br.monteoliva.mynfc:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -14615,7 +14615,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:defaultQueryHint
+     * @attr name br.monteoliva.mynfc:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -14628,7 +14628,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:goIcon
+     * @attr name br.monteoliva.mynfc:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -14640,7 +14640,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:iconifiedByDefault
+     * @attr name br.monteoliva.mynfc:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -14653,7 +14653,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:layout
+     * @attr name br.monteoliva.mynfc:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -14666,7 +14666,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:queryBackground
+     * @attr name br.monteoliva.mynfc:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -14677,7 +14677,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:queryHint
+     * @attr name br.monteoliva.mynfc:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -14690,7 +14690,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:searchHintIcon
+     * @attr name br.monteoliva.mynfc:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -14703,7 +14703,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:searchIcon
+     * @attr name br.monteoliva.mynfc:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -14716,7 +14716,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:submitBackground
+     * @attr name br.monteoliva.mynfc:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -14729,7 +14729,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:suggestionRowLayout
+     * @attr name br.monteoliva.mynfc:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -14742,7 +14742,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:voiceIcon
+     * @attr name br.monteoliva.mynfc:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -14752,8 +14752,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle br.evoluinet.mynfc:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle br.evoluinet.mynfc:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle br.monteoliva.mynfc:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle br.monteoliva.mynfc:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -14762,7 +14762,7 @@ public final class R {
       0x7f03015f, 0x7f030160
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14770,11 +14770,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:snackbarButtonStyle
+     * @attr name br.monteoliva.mynfc:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14782,7 +14782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:snackbarStyle
+     * @attr name br.monteoliva.mynfc:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -14793,8 +14793,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation br.evoluinet.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth br.evoluinet.mynfc:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation br.monteoliva.mynfc:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth br.monteoliva.mynfc:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -14827,11 +14827,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:elevation
+     * @attr name br.monteoliva.mynfc:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14840,7 +14840,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:maxActionInlineWidth
+     * @attr name br.monteoliva.mynfc:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -14854,7 +14854,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme br.evoluinet.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme br.monteoliva.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -14943,7 +14943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:popupTheme
+     * @attr name br.monteoliva.mynfc:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -15083,17 +15083,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText br.evoluinet.mynfc:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack br.evoluinet.mynfc:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth br.evoluinet.mynfc:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding br.evoluinet.mynfc:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance br.evoluinet.mynfc:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding br.evoluinet.mynfc:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint br.evoluinet.mynfc:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode br.evoluinet.mynfc:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track br.evoluinet.mynfc:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint br.evoluinet.mynfc:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode br.evoluinet.mynfc:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText br.monteoliva.mynfc:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack br.monteoliva.mynfc:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth br.monteoliva.mynfc:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding br.monteoliva.mynfc:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance br.monteoliva.mynfc:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding br.monteoliva.mynfc:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint br.monteoliva.mynfc:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode br.monteoliva.mynfc:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track br.monteoliva.mynfc:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint br.monteoliva.mynfc:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode br.monteoliva.mynfc:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -15159,7 +15159,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:showText
+     * @attr name br.monteoliva.mynfc:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -15170,7 +15170,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:splitTrack
+     * @attr name br.monteoliva.mynfc:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -15184,7 +15184,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:switchMinWidth
+     * @attr name br.monteoliva.mynfc:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -15198,7 +15198,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:switchPadding
+     * @attr name br.monteoliva.mynfc:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -15211,7 +15211,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:switchTextAppearance
+     * @attr name br.monteoliva.mynfc:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -15225,7 +15225,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:thumbTextPadding
+     * @attr name br.monteoliva.mynfc:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -15237,7 +15237,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:thumbTint
+     * @attr name br.monteoliva.mynfc:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -15264,7 +15264,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:thumbTintMode
+     * @attr name br.monteoliva.mynfc:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -15277,7 +15277,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:track
+     * @attr name br.monteoliva.mynfc:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -15289,7 +15289,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:trackTint
+     * @attr name br.monteoliva.mynfc:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -15316,7 +15316,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:trackTintMode
+     * @attr name br.monteoliva.mynfc:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -15378,31 +15378,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground br.evoluinet.mynfc:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart br.evoluinet.mynfc:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity br.evoluinet.mynfc:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint br.evoluinet.mynfc:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode br.evoluinet.mynfc:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator br.evoluinet.mynfc:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration br.evoluinet.mynfc:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor br.evoluinet.mynfc:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth br.evoluinet.mynfc:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity br.evoluinet.mynfc:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight br.evoluinet.mynfc:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel br.evoluinet.mynfc:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth br.evoluinet.mynfc:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth br.evoluinet.mynfc:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode br.evoluinet.mynfc:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding br.evoluinet.mynfc:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom br.evoluinet.mynfc:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd br.evoluinet.mynfc:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart br.evoluinet.mynfc:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop br.evoluinet.mynfc:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor br.evoluinet.mynfc:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor br.evoluinet.mynfc:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance br.evoluinet.mynfc:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor br.evoluinet.mynfc:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple br.evoluinet.mynfc:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground br.monteoliva.mynfc:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart br.monteoliva.mynfc:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity br.monteoliva.mynfc:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint br.monteoliva.mynfc:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode br.monteoliva.mynfc:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator br.monteoliva.mynfc:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration br.monteoliva.mynfc:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor br.monteoliva.mynfc:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth br.monteoliva.mynfc:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity br.monteoliva.mynfc:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight br.monteoliva.mynfc:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel br.monteoliva.mynfc:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth br.monteoliva.mynfc:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth br.monteoliva.mynfc:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode br.monteoliva.mynfc:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding br.monteoliva.mynfc:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom br.monteoliva.mynfc:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd br.monteoliva.mynfc:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart br.monteoliva.mynfc:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop br.monteoliva.mynfc:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor br.monteoliva.mynfc:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor br.monteoliva.mynfc:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance br.monteoliva.mynfc:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor br.monteoliva.mynfc:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple br.monteoliva.mynfc:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -15440,7 +15440,7 @@ public final class R {
       0x7f030195
     };
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15448,11 +15448,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabBackground
+     * @attr name br.monteoliva.mynfc:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15461,11 +15461,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabContentStart
+     * @attr name br.monteoliva.mynfc:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15478,22 +15478,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tabGravity
+     * @attr name br.monteoliva.mynfc:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabIconTint
+     * @attr name br.monteoliva.mynfc:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15510,11 +15510,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tabIconTintMode
+     * @attr name br.monteoliva.mynfc:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15522,41 +15522,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabIndicator
+     * @attr name br.monteoliva.mynfc:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:tabIndicatorAnimationDuration
+     * @attr name br.monteoliva.mynfc:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabIndicatorColor
+     * @attr name br.monteoliva.mynfc:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:tabIndicatorFullWidth
+     * @attr name br.monteoliva.mynfc:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15571,11 +15571,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tabIndicatorGravity
+     * @attr name br.monteoliva.mynfc:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15584,21 +15584,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabIndicatorHeight
+     * @attr name br.monteoliva.mynfc:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:tabInlineLabel
+     * @attr name br.monteoliva.mynfc:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15607,11 +15607,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabMaxWidth
+     * @attr name br.monteoliva.mynfc:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15620,11 +15620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabMinWidth
+     * @attr name br.monteoliva.mynfc:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15637,11 +15637,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:tabMode
+     * @attr name br.monteoliva.mynfc:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15650,11 +15650,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabPadding
+     * @attr name br.monteoliva.mynfc:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15663,11 +15663,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabPaddingBottom
+     * @attr name br.monteoliva.mynfc:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15676,11 +15676,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabPaddingEnd
+     * @attr name br.monteoliva.mynfc:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15689,11 +15689,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabPaddingStart
+     * @attr name br.monteoliva.mynfc:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15702,33 +15702,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:tabPaddingTop
+     * @attr name br.monteoliva.mynfc:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabRippleColor
+     * @attr name br.monteoliva.mynfc:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabSelectedTextColor
+     * @attr name br.monteoliva.mynfc:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15736,28 +15736,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabTextAppearance
+     * @attr name br.monteoliva.mynfc:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:tabTextColor
+     * @attr name br.monteoliva.mynfc:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:tabUnboundedRipple
+     * @attr name br.monteoliva.mynfc:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -15778,8 +15778,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily br.evoluinet.mynfc:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps br.evoluinet.mynfc:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily br.monteoliva.mynfc:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps br.monteoliva.mynfc:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -15952,7 +15952,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:fontFamily
+     * @attr name br.monteoliva.mynfc:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -15967,7 +15967,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:textAllCaps
+     * @attr name br.monteoliva.mynfc:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -15979,32 +15979,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor br.evoluinet.mynfc:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode br.evoluinet.mynfc:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop br.evoluinet.mynfc:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd br.evoluinet.mynfc:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart br.evoluinet.mynfc:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd br.evoluinet.mynfc:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart br.evoluinet.mynfc:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor br.evoluinet.mynfc:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth br.evoluinet.mynfc:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled br.evoluinet.mynfc:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength br.evoluinet.mynfc:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance br.evoluinet.mynfc:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance br.evoluinet.mynfc:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled br.evoluinet.mynfc:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance br.evoluinet.mynfc:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText br.evoluinet.mynfc:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled br.evoluinet.mynfc:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance br.evoluinet.mynfc:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled br.evoluinet.mynfc:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled br.evoluinet.mynfc:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance br.evoluinet.mynfc:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription br.evoluinet.mynfc:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable br.evoluinet.mynfc:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled br.evoluinet.mynfc:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint br.evoluinet.mynfc:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode br.evoluinet.mynfc:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor br.monteoliva.mynfc:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode br.monteoliva.mynfc:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop br.monteoliva.mynfc:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd br.monteoliva.mynfc:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart br.monteoliva.mynfc:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd br.monteoliva.mynfc:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart br.monteoliva.mynfc:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor br.monteoliva.mynfc:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth br.monteoliva.mynfc:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled br.monteoliva.mynfc:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength br.monteoliva.mynfc:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance br.monteoliva.mynfc:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance br.monteoliva.mynfc:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled br.monteoliva.mynfc:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance br.monteoliva.mynfc:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText br.monteoliva.mynfc:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled br.monteoliva.mynfc:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance br.monteoliva.mynfc:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled br.monteoliva.mynfc:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled br.monteoliva.mynfc:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance br.monteoliva.mynfc:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription br.monteoliva.mynfc:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable br.monteoliva.mynfc:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled br.monteoliva.mynfc:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint br.monteoliva.mynfc:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode br.monteoliva.mynfc:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -16070,18 +16070,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:boxBackgroundColor
+     * @attr name br.monteoliva.mynfc:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16095,11 +16095,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:boxBackgroundMode
+     * @attr name br.monteoliva.mynfc:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16108,11 +16108,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxCollapsedPaddingTop
+     * @attr name br.monteoliva.mynfc:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16121,11 +16121,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxCornerRadiusBottomEnd
+     * @attr name br.monteoliva.mynfc:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16134,11 +16134,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxCornerRadiusBottomStart
+     * @attr name br.monteoliva.mynfc:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16147,11 +16147,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxCornerRadiusTopEnd
+     * @attr name br.monteoliva.mynfc:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16160,22 +16160,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxCornerRadiusTopStart
+     * @attr name br.monteoliva.mynfc:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:boxStrokeColor
+     * @attr name br.monteoliva.mynfc:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16184,30 +16184,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:boxStrokeWidth
+     * @attr name br.monteoliva.mynfc:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:counterEnabled
+     * @attr name br.monteoliva.mynfc:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.evoluinet.mynfc:counterMaxLength
+     * @attr name br.monteoliva.mynfc:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16215,11 +16215,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:counterOverflowTextAppearance
+     * @attr name br.monteoliva.mynfc:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16227,21 +16227,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:counterTextAppearance
+     * @attr name br.monteoliva.mynfc:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:errorEnabled
+     * @attr name br.monteoliva.mynfc:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16249,31 +16249,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:errorTextAppearance
+     * @attr name br.monteoliva.mynfc:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:helperText
+     * @attr name br.monteoliva.mynfc:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:helperTextEnabled
+     * @attr name br.monteoliva.mynfc:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16281,31 +16281,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:helperTextTextAppearance
+     * @attr name br.monteoliva.mynfc:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:hintAnimationEnabled
+     * @attr name br.monteoliva.mynfc:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:hintEnabled
+     * @attr name br.monteoliva.mynfc:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16313,21 +16313,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:hintTextAppearance
+     * @attr name br.monteoliva.mynfc:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:passwordToggleContentDescription
+     * @attr name br.monteoliva.mynfc:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16335,32 +16335,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:passwordToggleDrawable
+     * @attr name br.monteoliva.mynfc:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:passwordToggleEnabled
+     * @attr name br.monteoliva.mynfc:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:passwordToggleTint
+     * @attr name br.monteoliva.mynfc:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16376,7 +16376,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:passwordToggleTintMode
+     * @attr name br.monteoliva.mynfc:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -16387,8 +16387,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme br.evoluinet.mynfc:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance br.evoluinet.mynfc:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme br.monteoliva.mynfc:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance br.monteoliva.mynfc:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -16410,23 +16410,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:enforceMaterialTheme
+     * @attr name br.monteoliva.mynfc:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.evoluinet.mynfc:enforceTextAppearance
+     * @attr name br.monteoliva.mynfc:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -16438,40 +16438,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity br.evoluinet.mynfc:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription br.evoluinet.mynfc:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon br.evoluinet.mynfc:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd br.evoluinet.mynfc:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions br.evoluinet.mynfc:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity br.monteoliva.mynfc:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription br.monteoliva.mynfc:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon br.monteoliva.mynfc:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd br.monteoliva.mynfc:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions br.monteoliva.mynfc:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft br.evoluinet.mynfc:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight br.evoluinet.mynfc:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart br.evoluinet.mynfc:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation br.evoluinet.mynfc:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft br.monteoliva.mynfc:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight br.monteoliva.mynfc:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart br.monteoliva.mynfc:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation br.monteoliva.mynfc:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo br.evoluinet.mynfc:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription br.evoluinet.mynfc:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo br.monteoliva.mynfc:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription br.monteoliva.mynfc:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight br.evoluinet.mynfc:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription br.evoluinet.mynfc:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight br.monteoliva.mynfc:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription br.monteoliva.mynfc:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon br.evoluinet.mynfc:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon br.monteoliva.mynfc:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme br.evoluinet.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme br.monteoliva.mynfc:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle br.evoluinet.mynfc:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance br.evoluinet.mynfc:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor br.evoluinet.mynfc:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title br.evoluinet.mynfc:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin br.evoluinet.mynfc:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle br.monteoliva.mynfc:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance br.monteoliva.mynfc:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor br.monteoliva.mynfc:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title br.monteoliva.mynfc:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin br.monteoliva.mynfc:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom br.evoluinet.mynfc:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd br.evoluinet.mynfc:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart br.evoluinet.mynfc:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop br.evoluinet.mynfc:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins br.evoluinet.mynfc:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance br.evoluinet.mynfc:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor br.evoluinet.mynfc:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom br.monteoliva.mynfc:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd br.monteoliva.mynfc:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart br.monteoliva.mynfc:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop br.monteoliva.mynfc:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins br.monteoliva.mynfc:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance br.monteoliva.mynfc:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor br.monteoliva.mynfc:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -16557,7 +16557,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16570,7 +16570,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:buttonGravity
+     * @attr name br.monteoliva.mynfc:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -16581,7 +16581,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:collapseContentDescription
+     * @attr name br.monteoliva.mynfc:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -16594,7 +16594,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:collapseIcon
+     * @attr name br.monteoliva.mynfc:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -16609,7 +16609,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetEnd
+     * @attr name br.monteoliva.mynfc:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -16624,7 +16624,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetEndWithActions
+     * @attr name br.monteoliva.mynfc:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -16639,7 +16639,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetLeft
+     * @attr name br.monteoliva.mynfc:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -16654,7 +16654,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetRight
+     * @attr name br.monteoliva.mynfc:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -16669,7 +16669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetStart
+     * @attr name br.monteoliva.mynfc:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -16684,7 +16684,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:contentInsetStartWithNavigation
+     * @attr name br.monteoliva.mynfc:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -16698,7 +16698,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:logo
+     * @attr name br.monteoliva.mynfc:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -16710,11 +16710,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:logoDescription
+     * @attr name br.monteoliva.mynfc:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16723,7 +16723,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:maxButtonHeight
+     * @attr name br.monteoliva.mynfc:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -16735,7 +16735,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:navigationContentDescription
+     * @attr name br.monteoliva.mynfc:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -16749,7 +16749,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:navigationIcon
+     * @attr name br.monteoliva.mynfc:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -16763,7 +16763,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:popupTheme
+     * @attr name br.monteoliva.mynfc:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -16774,11 +16774,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:subtitle
+     * @attr name br.monteoliva.mynfc:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16786,7 +16786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:subtitleTextAppearance
+     * @attr name br.monteoliva.mynfc:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -16798,17 +16798,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:subtitleTextColor
+     * @attr name br.monteoliva.mynfc:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#title}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.evoluinet.mynfc:title
+     * @attr name br.monteoliva.mynfc:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -16823,7 +16823,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMargin
+     * @attr name br.monteoliva.mynfc:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -16839,7 +16839,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMarginBottom
+     * @attr name br.monteoliva.mynfc:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -16855,7 +16855,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMarginEnd
+     * @attr name br.monteoliva.mynfc:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -16871,7 +16871,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMarginStart
+     * @attr name br.monteoliva.mynfc:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -16887,7 +16887,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMarginTop
+     * @attr name br.monteoliva.mynfc:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -16901,12 +16901,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:titleMargins
+     * @attr name br.monteoliva.mynfc:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link br.evoluinet.mynfc.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.monteoliva.mynfc.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16914,7 +16914,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:titleTextAppearance
+     * @attr name br.monteoliva.mynfc:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -16926,7 +16926,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:titleTextColor
+     * @attr name br.monteoliva.mynfc:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -16938,9 +16938,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd br.evoluinet.mynfc:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart br.evoluinet.mynfc:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme br.evoluinet.mynfc:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd br.monteoliva.mynfc:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart br.monteoliva.mynfc:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme br.monteoliva.mynfc:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -17002,7 +17002,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:paddingEnd
+     * @attr name br.monteoliva.mynfc:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -17016,7 +17016,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.evoluinet.mynfc:paddingStart
+     * @attr name br.monteoliva.mynfc:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -17029,7 +17029,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:theme
+     * @attr name br.monteoliva.mynfc:theme
      */
     public static final int View_theme=4;
     /**
@@ -17040,8 +17040,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint br.evoluinet.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode br.evoluinet.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint br.monteoliva.mynfc:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode br.monteoliva.mynfc:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -17074,7 +17074,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.evoluinet.mynfc:backgroundTint
+     * @attr name br.monteoliva.mynfc:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -17101,7 +17101,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name br.evoluinet.mynfc:backgroundTintMode
+     * @attr name br.monteoliva.mynfc:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
