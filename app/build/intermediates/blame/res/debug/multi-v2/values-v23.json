@@ -4,7 +4,7 @@
             "outputFile": "C:\\workspace\\android\\pessoal\\MyNFC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\1b3a495e1b7d861a07ad593579ccd59c\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\43801e6b4cb5881210c050287879f5ec\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\c66cc6c49c4d03482bfebf4ef951487d\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\1f3b44fbc01a0ce842b68df65079659d\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
