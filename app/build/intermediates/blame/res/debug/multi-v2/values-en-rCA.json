@@ -4,7 +4,7 @@
             "outputFile": "C:\\workspace\\android\\pessoal\\MyNFC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\1f3b44fbc01a0ce842b68df65079659d\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\e46f3e16fd8948e8e4c48c913cb404d3\\appcompat-1.1.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\df4dee7357dcea4162e598a1c17d5b6e\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\clmon\\.gradle\\caches\\transforms-2\\files-2.1\\6914682fddff1a1964366fc1a7e412f6\\core-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
