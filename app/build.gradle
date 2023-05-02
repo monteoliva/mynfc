@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 33
     defaultConfig {
         applicationId "br.monteoliva.mynfc"
         minSdkVersion 21
-        targetSdkVersion 28
+        targetSdkVersion 33
         versionCode 1
         versionName '1.0.5'
 
@@ -48,7 +48,7 @@ def AAVersion = '4.3.1'
 
 dependencies {
     implementation 'com.android.support:support-v4:28.0.0'
-    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.android.support:design:28.0.0'
 
     // monteoliva LIB
